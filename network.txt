@@ -1,3 +1,0 @@
->>sudo nano /etc/resolv.conf
-
-nameserver 208.67.222.222
